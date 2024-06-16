@@ -1,0 +1,4 @@
+1. anaconda
+2. spyder
+3. anaconda - terminal
+4. terminal - streamlit run "....location.."
